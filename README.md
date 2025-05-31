@@ -164,8 +164,8 @@ for(int i=1;i<=len;i++)
           k=0;
   }
  printf("\n);
-sp -= 1;
-y+=2;
+ sp -= 1;
+ y+=2;
 }
 return 0;
    
