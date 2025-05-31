@@ -173,9 +173,8 @@ return 0;
 ```
 
  ## OUTPUT:
-![Screenshot 2025-04-27 153400](https://github.com/user-attachments/assets/33d53f4c-6251-4fbe-8091-08b4d3bacfbd)
+![Screenshot 2025-05-31 142151](https://github.com/user-attachments/assets/a38f9a68-df57-4479-9940-1fbe93c76a61)
 
- 
 
 ## RESULT
 
